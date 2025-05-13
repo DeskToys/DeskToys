@@ -1,3 +1,10 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme 
+
+
+title: [DeskToys]
+description: [A collection of useful desktop tools.]
+show_downloads: [true]
+github:
+  zip_url: https://github.com/DeskToys/DeskToys/releases/download/v1.0.0/DeskToys-Installer.dmg

@@ -6,10 +6,10 @@
     <description>A collection of useful desktop tools.</description>
     <language>en</language>
     <item>
-      <title>DeskToys v1.0.0</title>
+      <title>DeskToys v1.0.1</title>
       <pubDate>Tue, 13 May 2025 17:49:45 +08:00</pubDate>
-      <sparkle:version>1.0.0</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:releaseNotesLink>
         https://raw.githubusercontent.com/DeskToys/DeskToys/refs/heads/master/CHANGELOG.md
       </sparkle:releaseNotesLink>

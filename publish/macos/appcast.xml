@@ -13,7 +13,8 @@
       <sparkle:releaseNotesLink>
         https://raw.githubusercontent.com/DeskToys/DeskToys/refs/heads/master/CHANGELOG.md
       </sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/DeskToys/DeskToys/releases/download/v1.0.0/DeskToys-1.0.1.dmg" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="20835141" sparkle:os="macos" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="OuQUY+KdNsA/2zJuJe1iS2Pc1o6wkyL300RioniYXOHcPnyeMs3oaUNQzp+34ITNHGr1dm4nkTxZBPo1pNjDCw==" />
+      
+      <enclosure url="https://github.com/DeskToys/DeskToys/releases/download/v1.0.0/DeskToys-1.0.1.dmg" sparkle:fileName="DeskToys-1.0.1.dmg" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="20835141" sparkle:os="macos" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="OuQUY+KdNsA/2zJuJe1iS2Pc1o6wkyL300RioniYXOHcPnyeMs3oaUNQzp+34ITNHGr1dm4nkTxZBPo1pNjDCw==" />
     </item>
   </channel>
 </rss>
